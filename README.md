@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @jiminryuu<br>👀 I’m interested in Learning new coding teqniques and algorithms, learning systems, and becoming a more efficient developer.<br>🌱 I’m currently learning databases, distributed systems, AI.<br>📫 How to reach me: ryujimin1217@gmail.com and https://www.linkedin.com/in/jiminryu/
+👋 Hi, I’m @jiminryuu<br>👀 I’m interested in Learning new coding techniques and algorithms, learning systems, and becoming a more efficient developer.<br>🌱 I’m currently learning databases, distributed systems, AI.<br>📫 How to reach me: ryujimin1217@gmail.com and https://www.linkedin.com/in/jiminryu/
 
 
 ## 🌐 Socials:
