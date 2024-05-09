@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @jiminryuu<br>👀 I’m interested in Learning new coding techniques and algorithms, learning systems, and becoming a more efficient developer.<br>🌱 I’m currently learning databases, distributed systems, AI. Currently in my third year of computer science at the University of Manitoba<br>📫 How to reach me: ryujimin1217@gmail.com and https://www.linkedin.com/in/jiminryu/
+👋 Hi, I’m @jiminryuu<br>👀 I’m interested in distributed computing and databases alongside becoming a more efficient developer.<br>🌱 I’m currently learning software engineering and ethics in computer science. Currently in my third year of computer science at the University of Manitoba<br>📫 How to reach me: ryujimin1217@gmail.com and https://www.linkedin.com/in/jiminryu/
 
 
 ## 🌐 Socials:
